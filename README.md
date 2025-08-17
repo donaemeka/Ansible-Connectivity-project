@@ -22,9 +22,9 @@ While building this, I worked through several real-world challenges:
 - (Optional) WSL if testing on Windows
 Clone this repository:
 
-- git clone https://github.com/donaemeka/ansible-devops-foundations.git
+- git clone https://github.com/donaemeka/Ansible-Connectivity-project.git
 
-- cd ansible-devops-foundations
+- cd Ansible-Connectivity-project
 
 ## Run the connectivity test:
 
